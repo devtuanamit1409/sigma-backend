@@ -1,5 +1,5 @@
 import express from "express";
-import fragranceNoteController from "../controllers/FragranceNoteController";
+import fragranceNoteController from "../controllers/fragranceNoteController";
 import { upload } from "../config/multer";
 const router = express.Router();
 
